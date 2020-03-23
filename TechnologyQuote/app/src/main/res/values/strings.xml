@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Technology Quote</string>
+    <string name="quote">Any sufficiently advanced technology is equivalent to magic.\n
+            \t– Sir Arthur C. Clarke</string>
+</resources>
