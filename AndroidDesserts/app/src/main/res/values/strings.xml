@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Desserts</string>
+    <string name="desserts">Cupcake\nDonut\nÉclair\nFroyo\nGingerbread\nHoneycomb\nIce Cream Sandwich\nJelly Bean\nKit Kat\nLollipop</string>
+</resources>
