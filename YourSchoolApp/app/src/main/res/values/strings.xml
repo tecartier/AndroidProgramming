@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Your School App</string>
+    <string name="txtTitle">St. Petersburg College</string>
+    <string name="txtDescription">College Image</string>
+    <string name="btnSchool">View Information</string>
+    <string name="txtDescription2">School Logo</string>
+    <string name="txtInformation">School Information</string>
+    <string name="txtAddress">9200 113th St, Seminole, FL 33772</string>
+    <string name="txtPhone">(727) 394-6000</string>
+</resources>
