@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 usDollarsEntered = Integer.parseInt(usDollars.getText().toString());
                 DecimalFormat currency = new DecimalFormat("###,###.##");
-                if (usDollarsEntered<= 100000 && usDollarsEntered > 0) {
+                if (usDollarsEntered<= 100000) {
                     if (euros.isChecked()) {
                         convertedTotal = (usDollarsEntered * 0.91412);
 
@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
                     }
                 }
                 else {
-                    Toast.makeText(MainActivity.this, "Please enter between $1 and $100,000", Toast.LENGTH_LONG).show();
+                    Toast.makeText(MainActivity.this, "Please enter no more than $100,000", Toast.LENGTH_LONG).show();
                 }
 
             }

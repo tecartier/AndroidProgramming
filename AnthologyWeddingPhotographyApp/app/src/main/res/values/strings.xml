@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Anthology Wedding Photography App</string>
+    <string name="imgLarge">Wedding Image</string>
+    <string name="contact">Contact us at anthology@wed.com</string>
+</resources>
