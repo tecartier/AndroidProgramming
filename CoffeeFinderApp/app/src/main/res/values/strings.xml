@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Coffee Finder App</string>
+    <string name="shop1name">Kawa Coffee</string>
+    <string name="shop1Address">2919 West Bay Drive Belleair Bluffs, FL 33770</string>
+    <string name="shop1phone">(727) 330-6446</string>
+    <string name="shop2name">Ohana Coffee Kava Tea</string>
+    <string name="shop2address">11540 Walsingham Rd, Largo FL 33778</string>
+    <string name="shop2phone">(727) 287-5282</string>
+    <string name="shop3name">Beans and Barlour</string>
+    <string name="shop3address">538 1st Ave N St Petersburg, 33701</string>
+    <string name="shop3phone">(727) 440-4540</string>
+    <string name="shop4name">Belleair Coffee Company and Roastery</string>
+    <string name="shop4address">100 Indian Rocks Rd N, Belleair Bluffs, FL 33770</string>
+    <string name="shop4phone">(727) 501-1010</string>
+    <string name="shop1description">shop1description</string>
+    <string name="shop2description">shop2description</string>
+    <string name="shop3description">shop3description</string>
+    <string name="shop4description">shop4description</string>
+</resources>
